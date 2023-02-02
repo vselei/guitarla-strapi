@@ -58,3 +58,7 @@ npm run develop
 - Strapi
 - Cloudinary
 - PostgreSQL
+
+##
+
+Essa REST API foi desenvolvida para o projeto <a href="https://github.com/vselei/guitarla-remix">GuitarLA</a>
