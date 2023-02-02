@@ -16,7 +16,7 @@ Collection Type Guitar
 - description
 - image
 - price
-- url
+- uid
 
 <br />
 
@@ -24,7 +24,7 @@ Collection Type Post
 - title
 - content
 - image
-- url
+- uid
 
 <br />
 
